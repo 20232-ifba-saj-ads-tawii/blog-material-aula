@@ -8,7 +8,7 @@
     "build": "vuepress build .",
     "clean-dev": "vuepress dev . --clean-cache",
     "dev": "vuepress dev .",
-    "update-package": "pnpm dlx vp-update"
+    "upd": "pnpm dlx vp-update"
   },
   "devDependencies": {
     "@vuepress/client": "2.0.0-beta.67",

@@ -1,5 +1,5 @@
 ---
-icon: circle-info
+icon: info
 ---
 
 # Apresentação
