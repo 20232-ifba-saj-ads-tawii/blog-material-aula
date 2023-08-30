@@ -1,0 +1,21 @@
+{
+  "name": "20232-poo",
+  "version": "1.0.0",
+  "description": "Aulas POO 2023.2",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "vuepress build .",
+    "clean-dev": "vuepress dev . --clean-cache",
+    "dev": "vuepress dev .",
+    "update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.67",
+    "@vuepress/plugin-search": "2.0.0-beta.67",
+    "markdown-it-plantuml": "^1.4.1",
+    "vue": "^3.3.4",
+    "vuepress": "2.0.0-beta.67",
+    "vuepress-theme-hope": "2.0.0-beta.236"
+  }
+}
