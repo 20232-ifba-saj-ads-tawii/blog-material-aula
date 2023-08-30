@@ -13,7 +13,7 @@ export default hopeTheme({
   lastUpdated: false,
   contributors: false,
   
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "iconfont",
 
   logo: "/logo.svg",
 
