@@ -8,7 +8,10 @@ category:
 star: true
 index: false
 ---
+
+
 # Plano de Curso de Disciplina do Ensino Superior
+
 
 **CURSO:** Tecnologia em Análise e Desenvolvimento de Sistemas
 
@@ -16,67 +19,60 @@ index: false
 
 **DOCENTE:** Leandro Costa Souza
 
-**PERÍODO LETIVO:** 2023.2
+**PERÍODO LETIVO:** 2023.1
 
-**Código Disciplina:** PRG04 Programação Orientada a Objetos
+**Código Disciplina:** PRG09 Padrões de projetos 
 
-**Pré-requisitos da disciplina:** PRG02 - Linguagem de Programação 
+**Pré-requisitos da disciplina:** PRG04 - Programação Orientada a Objetos 
 
-**Pré-requisito para:** PRG05 - Programação Web
+**Pré-requisito para:** -
 
 **Créditos**
 | Teóricos | Práticos | Estágio | Total |
 | :------: | :------: | :-----: | :---: |
-|    3     |    3     |    -    |   6   |
+|    2     |    2     |    -    |   4   |
 
 
 **Carga horária**
 | Teóricos | Práticos | Estágio | Total |
 | :------: | :------: | :-----: | :---: |
-|    45    |    45    |    -    |  90   |
+|    30    |    30    |    -    |  60   |
 
 ## Ementa
 
-- Conceitos de Orientação a Objetos: Objeto, Classe, Método, Estado, Encapsulamento, Polimorfismo, Abstração, Sobrecarga, Herança e Composição. Facetas da Reusabilidade de Software.
-- Diferenças entre os paradigmas da programação funcional estruturada e da programação orientada a objetos. Aplicação dos conceitos através de linguagem Orientada a Objetos
+- Técnicas para construção de software fracamente acoplado e reutilizável; Padrões de Projeto; Técnicas de refatoração de código; Padrões de projeto para frameworks.
 
 ## Objetivos
-- Apresentar os fundamentos do paradigma de programação orientado a objetos no processo de desenvolvimento de software.
-- Capacitar a compreensão correta por parte do aluno da aplicação da orientação a objetos.
-- Apresentar a implementação dos mecanismos teóricos e recursos adicionais de uma linguagem orientada a objetos.
+- Fornecer as técnicas necessárias para que o aluno possa desenvolver habilidade de programação, Empregando as boas práticas de programação com o intuito de tornar o código mais flexível e reutilizável.
 
 ## Conteúdo programático
-- Paradigma de programação orientada a objetos;
-- Objetos e Classes;
-- Atributos e métodos de classe e de instância;
-- Operadores de visibilidade;
-- Construtores e destrutores;
-- Sobrecarga e sobrescrita de métodos;
-- Interfaces e classes abstratas;
-- Herança de implementação e de interface;
-- Polimorfismo e ligação dinâmica;
-- Sobrecarga de operadores, framework collections;
-- Exceções;
-- JavaFX
-- Threads
+- SOLID
+- Definição de padrão de projeto (GOF)
+- Padrões Criacionais
+- Padrões Estruturais
+- Padrões Comportamentais
+- Jakarta EE
 
 ## Metodologia
 
 Aulas teóricas e demonstração de casos reais que ajudem na assimilação dos conceitos apresentados. Problemas propostos com a finalidade de desafiar o estudante a utilizar conhecimentos já adquiridos em busca de uma adaptação a uma situação nova. Utilização de listas de exercícios em casa e em sala para estimular os alunos na prática dos conteúdos apresentados e trabalhos em grupo.
 
 ## Avaliação
-O processo de avaliação dar-se-á ao longo do desenvolvimento da disciplina. Categorias de análise, tais como, o aproveitamento individual e a capacidade de interação do educando serão cruciais para avaliar o seu aproveitamento em todas as etapas da disciplina. De modo específico, serão serão utilizados como instrumento de avaliação: a resolução individual de exercícios, atividades práticas individuais e em grupo, através dos quais pretende-se avaliar o entendimento conceitual dos alunos com relação à Orientação a Objetos.
+
+O processo de avaliação dar-se-á ao longo do desenvolvimento da disciplina. Categorias de análise, tais como, o aproveitamento individual e a capacidade de interação do educando serão cruciais para avaliar o seu aproveitamento em todas as etapas da disciplina. De modo específico, serão realizadas atividades para casa, provas práticas, seminários e trabalho em grupo.
 
 
 ## Bibliografia básica:
 
-- CORNELL, G.; HORSTMANN, C. S. **Core JAVA: Volume 1.** 8. ed. Pearson, 2010.
-- DEITEL, P. J.; DEITEL, H. M. **Java como programar**. 8. ed. Pearson, 2010.
-- SANTOS, R. **Introdução à Programação Orientada a Objetos Usando Java.** 2. ed. Elsevier-Campus, 2013.
+- GAMMA, E.; HELM, R.; JOHNSON, K.; VLISSIDES, J. **Padrões de projeto – Soluções reutilizáveis de software orientado a objetos.** Porto Alegre: Bookman, 2000.
+- FOWLER, M. **Refatoração: Aperfeiçoando o Projeto de Código Existente.** Porto Alegre: Bookman, 2011.
+- FREEMAN, E.; FREEMAN, E.  **Use a Cabeça! Padrões de Projetos.**  Rio de Janeirio: Alta Books, 2007.
 
 ## Bibliografia complementar:
-- SCHILDT, H. **Java: A Referência Completa.** Tradução da Oitava Edição. Alta Books, 2014.
-- SCHILDT, H. **Java para Iniciantes – Crie, Compile e Execute Programas Java Rapidamente.** 6. ed. Bookman, 2015.
-- SCHILDT, H.; SKRIEN, D. **Programação com Java: Uma Introdução Abrangente.** McGraw-Hill, 2013.
-- SIERRA, K; BATES, B. **Use a cabeça! Java.** Tradução da Segunda Edição. Alta Books, 2007.
-- SILVEIRA, G.; TURINI, R. **Java 8 Prático: Lambdas, Streams e os novos recursos da linguagem.** Casa do Código, 2014.
+- LARMAN, C. **Utilizando UML e Padrões – Uma Introdução à Análise ao Projeto Orientado a Objetos.** 3. ed. Porto Alegre: Bookmann, 2007.
+- BRAUDE, E. **Projeto de Software: da programação à arquitetura - Uma abordagem baseada em Java.** Bookman, 2005.
+- HORSTMANN, C. **Padrões e Projeto Orientado a Objetos.** 2. ed. Bookman, 2007.
+- MARINESCU, F. **Padrões de Projeto EJB: Padrões Avançados, Processos e Idiomas.**  Bookman, 2004.
+- SANDERS, W. **Aprendendo Padrões de Projeto em PHP: Programação Orientada a Objetos para Projetos Dinâmicos.** Novatec, 2013.
+- SHALLOWAY, Alan; TROTT, James R. **Explicando padrões de projeto Uma nova perspectiva em Projeto orientado a objeto.** Bookman, 2004.
+- SHVETS, Alexander. **Dive Into Design Patterns.** (https://refactoring.guru/pt-br/design-patterns)
