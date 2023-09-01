@@ -17,7 +17,7 @@ index: false
 
 **DOCENTE:** Leandro Costa Souza
 
-**PERÍODO LETIVO:** 2023.1
+**PERÍODO LETIVO:** 2023.2
 
 **Código Disciplina:** OPC14 - Tópicos Avançados em WEB II
 
