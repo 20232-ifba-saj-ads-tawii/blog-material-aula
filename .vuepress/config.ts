@@ -7,7 +7,7 @@ export default defineUserConfig({
   base : "/blog-material-aula/",
 
   lang: "pt-BR",
-  title: "20232 PPR Blog das Aulas",
+  title: "20232 TAWII Blog das Aulas",
   description: "Material das Aulas",
 
   extendsMarkdown: (md) => {    
