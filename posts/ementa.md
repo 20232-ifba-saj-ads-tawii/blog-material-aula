@@ -9,11 +9,9 @@ star: true
 index: false
 ---
 
-
 # Plano de Curso de Disciplina do Ensino Superior
 
-
-**CURSO:** Tecnologia em Análise e Desenvolvimento de Sistemas
+**CURSO:** Tecnologia em Análise e Desenvolvimento de Sistemas/Redes de Computadores
 
 **CAMPUS:** Santo Antônio de Jesus
 
@@ -21,37 +19,42 @@ index: false
 
 **PERÍODO LETIVO:** 2023.1
 
-**Código Disciplina:** PRG09 Padrões de projetos 
+**Código Disciplina:** OPC14 - Tópicos Avançados em WEB II
 
-**Pré-requisitos da disciplina:** PRG04 - Programação Orientada a Objetos 
+**Pré-requisitos da disciplina:** -
 
 **Pré-requisito para:** -
 
 **Créditos**
 | Teóricos | Práticos | Estágio | Total |
 | :------: | :------: | :-----: | :---: |
-|    2     |    2     |    -    |   4   |
+|    2     |    -     |    -    |   2   |
 
 
 **Carga horária**
 | Teóricos | Práticos | Estágio | Total |
 | :------: | :------: | :-----: | :---: |
-|    30    |    30    |    -    |  60   |
+|    30    |    -     |    -    |  30   |
 
 ## Ementa
 
-- Técnicas para construção de software fracamente acoplado e reutilizável; Padrões de Projeto; Técnicas de refatoração de código; Padrões de projeto para frameworks.
+- Ferramentas de Controle de versão, Gerência de configuração e Integração contínua, soluções de virtualização de ambientes utilizando containers e WSL, Ferramentas de Builds, testes e Deploys automatizados.
 
 ## Objetivos
-- Fornecer as técnicas necessárias para que o aluno possa desenvolver habilidade de programação, Empregando as boas práticas de programação com o intuito de tornar o código mais flexível e reutilizável.
+- Apresentar conceitos e ferramentas relacionadas ao DevOps voltadas para o desenvolvimento de sistemas, operações de TI, engenharia da qualidade e segurança.
 
 ## Conteúdo programático
-- SOLID
-- Definição de padrão de projeto (GOF)
-- Padrões Criacionais
-- Padrões Estruturais
-- Padrões Comportamentais
-- Jakarta EE
+- Controle de versão
+    - Evolução
+    - Git
+- Gerência de configuração e Integração contínua
+    - Hudson/Jenkins
+    - Github Actions,
+    - GitLab CI/CD
+- Virtualização
+    - Docker/Podman
+    - WSL
+- IaC (infraestrutura como código)
 
 ## Metodologia
 
@@ -61,18 +64,16 @@ Aulas teóricas e demonstração de casos reais que ajudem na assimilação dos 
 
 O processo de avaliação dar-se-á ao longo do desenvolvimento da disciplina. Categorias de análise, tais como, o aproveitamento individual e a capacidade de interação do educando serão cruciais para avaliar o seu aproveitamento em todas as etapas da disciplina. De modo específico, serão realizadas atividades para casa, provas práticas, seminários e trabalho em grupo.
 
-
 ## Bibliografia básica:
 
-- GAMMA, E.; HELM, R.; JOHNSON, K.; VLISSIDES, J. **Padrões de projeto – Soluções reutilizáveis de software orientado a objetos.** Porto Alegre: Bookman, 2000.
-- FOWLER, M. **Refatoração: Aperfeiçoando o Projeto de Código Existente.** Porto Alegre: Bookman, 2011.
-- FREEMAN, E.; FREEMAN, E.  **Use a Cabeça! Padrões de Projetos.**  Rio de Janeirio: Alta Books, 2007.
+- CHACON, Scott. **Pro Git**, Segunda Edição, Português do Brasil (https://github.com/progit/progit2-pt-br/releases).
+- BEATTIE, T. **DevOps Culture and Practice with OpenShift. Deliver continuous business value through people, processes, and technology**. Packt Publishing Ltd, 2021(https://www.redhat.com/pt-br/engage/devops-culture-practice-openshift-ebooks).
+- **Jenkins Handbook** (https://www.jenkins.io/doc/book/)
 
 ## Bibliografia complementar:
-- LARMAN, C. **Utilizando UML e Padrões – Uma Introdução à Análise ao Projeto Orientado a Objetos.** 3. ed. Porto Alegre: Bookmann, 2007.
-- BRAUDE, E. **Projeto de Software: da programação à arquitetura - Uma abordagem baseada em Java.** Bookman, 2005.
-- HORSTMANN, C. **Padrões e Projeto Orientado a Objetos.** 2. ed. Bookman, 2007.
-- MARINESCU, F. **Padrões de Projeto EJB: Padrões Avançados, Processos e Idiomas.**  Bookman, 2004.
-- SANDERS, W. **Aprendendo Padrões de Projeto em PHP: Programação Orientada a Objetos para Projetos Dinâmicos.** Novatec, 2013.
-- SHALLOWAY, Alan; TROTT, James R. **Explicando padrões de projeto Uma nova perspectiva em Projeto orientado a objeto.** Bookman, 2004.
-- SHVETS, Alexander. **Dive Into Design Patterns.** (https://refactoring.guru/pt-br/design-patterns)
+- **Documentação do GitHub** Actions (https://docs.github.com/pt/actions)
+- **GitLab CI/CD** (https://docs.gitlab.com/ee/ci/)
+- **Docker** (https://docs.docker.com/get-started/overview/)
+- **Podman** (https://docs.podman.io/en/latest/index.html)
+- **Documentação do Subsistema Windows para Linux** (https://learn.microsoft.com/pt-br/windows/wsl/)
+- **O que é IaC (infraestrutura como código)?** (https://learn.microsoft.com/pt-br/devops/deliver/what-is-infrastructure-as-code)
