@@ -7,8 +7,8 @@ export default defineUserConfig({
   base : "/blog-material-aula/",
 
   lang: "pt-BR",
-  title: "Blog Aulas 20232 POO",
-  description: "Material de aulas",
+  title: "20232 POO Blog das Aulas",
+  description: "Material das Aulas",
 
   extendsMarkdown: (md) => {    
     md.use(umlPlugin, {openMarker: '```plantuml', closeMarker: '```'})
