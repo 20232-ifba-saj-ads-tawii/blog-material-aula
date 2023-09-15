@@ -44,17 +44,20 @@ index: false
 - Apresentar conceitos e ferramentas relacionadas ao DevOps voltadas para o desenvolvimento de sistemas, operações de TI, engenharia da qualidade e segurança.
 
 ## Conteúdo programático
-- Controle de versão
-    - Git
+- Sistemas de Controle de Versão (SCV)
+  - 
+  - Git
 - Gerência de configuração e Integração contínua
-    - Hudson/Jenkins
-    - Github Actions,
-    - GitLab CI/CD
+  - Hudson/Jenkins
+  - Github Actions,
+  - GitLab CI/CD
 - Virtualizações
-    - Hipervisor (Tipo 1 e 2)
-    - Ambientes isolados
-      - Docker/Podman
-    - WSL 2
+  - Ambientes Isolados (Sandbox)
+  - Hypervisor
+  - Container
+    - Docker
+    - Podman
+  - WSL 2
 - IaC (infraestrutura como código)
   - Kubernetes
 
