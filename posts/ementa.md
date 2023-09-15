@@ -1,6 +1,6 @@
 ---
 icon: edit
-date: 2023-08-31 17:40:00.00 -3
+date: 2023-09-15 17:40:00.00 -3
 tag:
   - ementa
 category:
@@ -45,16 +45,18 @@ index: false
 
 ## Conteúdo programático
 - Controle de versão
-    - Evolução
     - Git
 - Gerência de configuração e Integração contínua
     - Hudson/Jenkins
     - Github Actions,
     - GitLab CI/CD
-- Virtualização
-    - Docker/Podman
-    - WSL
+- Virtualizações
+    - Hipervisor (Tipo 1 e 2)
+    - Ambientes isolados
+      - Docker/Podman
+    - WSL 2
 - IaC (infraestrutura como código)
+  - Kubernetes
 
 ## Metodologia
 
