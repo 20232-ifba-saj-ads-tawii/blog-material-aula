@@ -55,7 +55,7 @@ As principais vantagens de se utilizar um sistema de controle de versão para ra
 - **Confiança**: O uso de repositórios remotos (na nuvem) ajuda a não perder arquivos por eventos inesperados. Além disso, e possível fazer novos projetos sem danificar o desenvolvimento do atual.
 
 
-## Controle de versão centralizado
+## Sistemas de controle de versão centralizado
 
 No início da programação de software, os desenvolvedores costumavam usar métodos simples para controlar suas versões localmente. Isso envolvia fazer cópias de segurança manuais dos arquivos de código-fonte em diretórios diferentes ou usando ferramentas básicas, como a criação de arquivos com diferentes extensões (por exemplo, "script_v1.sh", "script_v2.sh", etc.).
 
