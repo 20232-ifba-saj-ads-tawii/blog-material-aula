@@ -44,8 +44,8 @@ index: false
 - Apresentar conceitos e ferramentas relacionadas ao DevOps voltadas para o desenvolvimento de sistemas, operações de TI, engenharia da qualidade e segurança.
 
 ## Conteúdo programático
+
 - Sistemas de Controle de Versão (SCV)
-  - 
   - Git
 - Gerência de configuração e Integração contínua
   - Hudson/Jenkins
@@ -76,7 +76,7 @@ O processo de avaliação dar-se-á ao longo do desenvolvimento da disciplina. C
 - **Jenkins Handbook** (https://www.jenkins.io/doc/book/)
 
 ## Bibliografia complementar:
-- **Documentação do GitHub** Actions (https://docs.github.com/pt/actions)
+- **Documentação do GitHub Actions**  (https://docs.github.com/pt/actions)
 - **GitLab CI/CD** (https://docs.gitlab.com/ee/ci/)
 - **Docker** (https://docs.docker.com/get-started/overview/)
 - **Podman** (https://docs.podman.io/en/latest/index.html)
