@@ -48,18 +48,16 @@ index: false
 - Sistemas de Controle de Versão (SCV)
   - Git
 - Gerência de configuração e Integração contínua
-  - Hudson/Jenkins
-  - Github Actions,
-  - GitLab CI/CD
+  - Github Actions, GitLab CI/CD, Hudson/Jenkins
 - Virtualizações
-  - Ambientes Isolados (Sandbox)
-  - Hypervisor
-  - Container
-    - Docker
-    - Podman
-  - WSL 2
-- IaC (infraestrutura como código)
+  - Ambientes Isolados
+    - Sandbox, Container (Docker e Podman)
+  - Hypervisor Tipo 1 e 2
+  - WSL 1 e 2
+- Orquestração de contêineres
   - Kubernetes
+- IaC (infraestrutura como código)
+  - Terraform
 
 ## Metodologia
 
