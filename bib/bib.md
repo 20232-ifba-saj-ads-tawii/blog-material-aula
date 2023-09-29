@@ -24,3 +24,8 @@
 
 
 [^WKM]: O que é e porque usar um sistema de controle de versão? [https://blog.wkm.com.br/o-que-%C3%A9-e-porque-usar-um-sistema-de-controle-de-vers%C3%A3o-23f00b08e12d](https://blog.wkm.com.br/o-que-%C3%A9-e-porque-usar-um-sistema-de-controle-de-vers%C3%A3o-23f00b08e12d)
+
+
+[^hostinger_git]: GIT Tutorial Para Iniciantes [https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao)
+
+[^fundamentos-do-git]: Fundamentos do Git, um guia completo [https://dev.to/leandronsp/pt-br-fundamentos-do-git-um-guia-completo-2djh](https://dev.to/leandronsp/pt-br-fundamentos-do-git-um-guia-completo-2djh)
