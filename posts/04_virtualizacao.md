@@ -132,7 +132,7 @@ digraph G {
 		node [color=white];
     a0[color=7 label="Maquina\nHospedeira"];
     a1[color=6 label="S.O."];
-    a2[color=5 label="SW de Vertualização"];
+    a2[color=5 label="SW de Virtualização"];
     a3[color=4 label="HW emulado"];
     a4[color=3 label="S.O. Virtualizado"];
     a5[color=2 label="Libs"];
@@ -164,7 +164,7 @@ digraph G {
 |Características|Contêiner|Máquina virtual|
 |---|---|---|
 |Definição   | Um pacote de código de software que contém o código de um aplicativo, suas bibliotecas e outras dependências que fazem o ambiente de execução da aplicação.  |Réplica digital de uma máquina física. Particiona o hardware físico em vários ambientes. |
-|Virtualização|Virtualiza o sistema operacional.|Virtualiza a estrutura física subjacente.|
+|Virtualização|Virtualiza parte do sistema operacional.|Virtualiza a estrutura física subjacente.|
 |Encapsulamento|Camada de software sobre o sistema operacional necessária para executar a aplicação ou o componente da aplicação.|Sistema operacional, todas as camadas de software acima dele, várias aplicações.|
 |Tecnologia|Mecanismo de contêiner coordena com o sistema operacional subjacente para obter recursos. |O hipervisor coordena com o hardware ou sistema operacional subjacente.|
 |Tamanho|Mais leve (pense em termos de MB).|Muito maior (pense em termos de GB).|
