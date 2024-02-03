@@ -57,5 +57,8 @@ Ao final do trabalho, faça uma documentação no github utilizando o markdown d
 
 Este projeto aborda aspectos essenciais de DevOps, como automação, integração contínua, orquestração de contêineres, e garantia de disponibilidade e redundância.
 
-## Video
+## Videos
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eMDWA2ey0zY?si=XP6FoO-9Wj7r1Es_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujAbn-oGR9I?si=K4PRqntZq_4ueg8B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
